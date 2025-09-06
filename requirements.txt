@@ -1,0 +1,11 @@
+streamlit
+sqlalchemy
+pydantic
+google-generativeai
+python-dotenv
+bcrypt
+pandas
+numpy
+plotly
+
+
